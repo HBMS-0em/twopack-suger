@@ -1,11 +1,3 @@
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-°^°
-Press: ALT+F4
-Press: ALT+F4
-Here is some software from Twopack $uger from Gangbusters 
 debootstrap
 sudo get upgrade
 flash install system 
@@ -15,100 +7,13 @@ https://github.com/ooni/probe
 git clone https://GitHub.com/asbestomolesto/mindguard
 git clone https://github.com/offensive-security/kali-nethunter
 git clone https://github.com/hrtywhy/Hanoman
-You Are Lovely
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+sudo cryptsetup open /dev/sda0 <Katy0>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
+sudo cryptsetup open /dev/sda1 <Katy1>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2
+sudo cryptsetup open /dev/sdxy <Katy2>
+You Are Lovely. 
 https://github.com/HBMS-0em/Read-Me
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-°^°
-Press: ALT+F4
-Press: ALT+F4
-Here is some software from Twopack $uger from Gangbusters 
-debootstrap
-sudo get upgrade
-flash install system 
-git clone https://github.com/RealityRipple/Pale-Moon
-git clone
-https://github.com/ooni/probe
-git clone https://GitHub.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-git clone https://github.com/hrtywhy/Hanoman
-You Are Lovely
-https://github.com/HBMS-0em/Read-Me
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-°^°
-Press: ALT+F4
-Press: ALT+F4
-Here is some software from Twopack $uger from Gangbusters 
-debootstrap
-sudo get upgrade
-flash install system 
-git clone https://github.com/RealityRipple/Pale-Moon
-git clone
-https://github.com/ooni/probe
-git clone https://GitHub.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-git clone https://github.com/hrtywhy/Hanoman
-You Are Lovely
-https://github.com/HBMS-0em/Read-Me
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-°^°
-Press: ALT+F4
-Press: ALT+F4
-Here is some software from Twopack $uger from Gangbusters 
-debootstrap
-sudo get upgrade
-flash install system 
-git clone https://github.com/RealityRipple/Pale-Moon
-git clone
-https://github.com/ooni/probe
-git clone https://GitHub.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-git clone https://github.com/hrtywhy/Hanoman
-You Are Lovely
-https://github.com/HBMS-0em/Read-Me
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-°^°
-Press: ALT+F4
-Press: ALT+F4
-Here is some software from Twopack $uger from Gangbusters 
-debootstrap
-sudo get upgrade
-flash install system 
-git clone https://github.com/RealityRipple/Pale-Moon
-git clone
-https://github.com/ooni/probe
-git clone https://GitHub.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-git clone https://github.com/hrtywhy/Hanoman
-You Are Lovely
-https://github.com/HBMS-0em/Read-Me
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-°^°
-Press: ALT+F4
-Press: ALT+F4
-Here is some software from Twopack $uger from Gangbusters 
-debootstrap
-sudo get upgrade
-flash install system 
-git clone https://github.com/RealityRipple/Pale-Moon
-git clone
-https://github.com/ooni/probe
-git clone https://GitHub.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-git clone https://github.com/hrtywhy/Hanoman
-You Are Lovely
-https://github.com/HBMS-0em/Read-Me
+
